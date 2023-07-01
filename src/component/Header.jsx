@@ -15,7 +15,7 @@ export default function Header() {
             Redux{" "}
           </div>
           <div class="flex-initial w-32 mt-3">Cart</div>
-          <div class="flex-initial w-32 mt-3">Sign In</div>
+          <div class="flex-initial w-32 mt-3">Yash Mishra</div>
         </div>
       </div>
     </div>
